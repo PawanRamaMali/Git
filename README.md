@@ -75,7 +75,8 @@ Ed Dillinger (3):
 
 Walter Gibbs (1):
       Introduce protoype chess program
-      ```
+ 
+```
       
 There are a number of other contexts in Git where the distinction between subject line and body kicks in—but none of them work properly without the blank line in between.
 
@@ -213,7 +214,8 @@ Date:   Fri Aug 1 22:57:55 2014 +0200
 
    fail(), clear(n) and exceptions() are just never called. Delete
    them.
-   ```
+ 
+ ```
    
 Take a look at the full diff and just think how much time the author is saving fellow and future committers by taking the time to provide this context here and now. If he didn’t, it would probably be lost forever.
 
