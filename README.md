@@ -27,13 +27,55 @@
    Dropbox 
    Google Photos 
 * You can store your files here. 
+* Optimized for managing your software codes and projects. 
+* It can provide better support for your codes 
+* Syntax highlighting 
 
-Optimized for managing your software codes and projects. 
+### Git and GitHub are NOT same 
 
-It can provide better support for your codes 
+We often work with Git and GitHub together  
+But they are not one and the same thing. 
+They have different role and purpose. 
+Git is not a cloud storage system. 
 
-Syntax highlighting 
+### Motivation  — we change our code 
 
+Very often break it. 
+
+How do we get back to the last code that actually 
+May try a new experimental feature 
+We may add a feature we aren't sure  
+  It will work 
+  We will keep it 
+
+While we plan to launch a new version with lot of breaking change 
+We may still want to work with older version 
+We may have multiple client with older version 
+
+Example 
+Python introduced version 3x in 2007 
+It introduced many breaking changes from python 2 
+Python 2.x was a very popular version 
+Python version 2 was continuously updated and maintained till 2020 
+Python 2.x was continuously updated 
+
+## Types of Version Control System 
+
+###  Centralized Version Control System 
+
+We have  central storage where all files are stored 
+Multiple user can access that centralized store 
+They can update or sync changes  
+
+Problem 
+
+to do any job you need to be connected to the storage 
+
+###  Distributed version control system 
+
+We don't need to be connected central storage 
+Each user can have their own storage and repository 
+We can connect with each other on demand (when we need to sync) 
 
 ## Seven rules of a great Git commit message
 
