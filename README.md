@@ -1,5 +1,40 @@
 # Git
 
+## What is Git? 
+
+* Version control system 
+* Many developers can collaborate on a single project 
+* Collection of commands  <—- to generic 
+* Global  Information Tracker 
+* Open source distributed version 
+* Decentralized VCS 
+* Revisions 
+* Software for tracking changes. 
+* We can rollback changes 
+
+ 
+## What is GitHub? 
+
+ 
+* Platform to upload the project 
+* Global repository to upload or download project? 
+* What is project? 
+  * Collection of code
+* Social media for coders. 
+* It is LIKE a cloud storage! 
+   Google Drive 
+   One Drive 
+   Dropbox 
+   Google Photos 
+* You can store your files here. 
+
+Optimized for managing your software codes and projects. 
+
+It can provide better support for your codes 
+
+Syntax highlighting 
+
+
 ## Seven rules of a great Git commit message
 
 * Separate subject from body with a blank line
